@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NSDateExtension_Example' do
+  pod 'NSDateExtension', :path => '../'
+
+  target 'NSDateExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -19,7 +19,8 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
-                       DESC this is a long description of NSDateExtension. you can use this frameworks to jian NSDateExtension
+                       this is a long description of NSDateExtension. you can use this frameworks to jian NSDateExtension
+                        DESC
 
   s.homepage         = 'https://github.com/XZYsunny/ZYCategoryKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
